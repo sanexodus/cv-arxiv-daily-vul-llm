@@ -1,4 +1,4 @@
-## Updated on 2025.05.13
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs**|Chaomeng Lu et.al.|[2505.08503](http://arxiv.org/abs/2505.08503)|null|
+|**2025-05-12**|**A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection**|Junji Yu et.al.|[2505.07376](http://arxiv.org/abs/2505.07376)|null|
 |**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|
 |**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|
 |**2025-05-06**|**Directed Greybox Fuzzing via Large Language Model**|Hanxiang Xu et.al.|[2505.03425](http://arxiv.org/abs/2505.03425)|null|
@@ -38,7 +40,7 @@
 |**2025-04-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|**[link](https://github.com/martin-wey/R2Vul)**|
 |**2025-04-07**|**Generative Large Language Model usage in Smart Contract Vulnerability Detection**|Peter Ince et.al.|[2504.04685](http://arxiv.org/abs/2504.04685)|null|
 |**2025-04-05**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701](http://arxiv.org/abs/2504.02701)|**[link](https://github.com/rymarinelli/wormy_ai)**|
-|**2025-03-27**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null|
+|**2025-05-12**|**Reasoning Under Threat: Symbolic and Neural Techniques for Cybersecurity Verification**|Sarah Veronica et.al.|[2503.22755](http://arxiv.org/abs/2503.22755)|null|
 |**2025-03-23**|**Enhancing Software Vulnerability Detection Using Code Property Graphs and Convolutional Neural Networks**|Amanpreet Singh Saimbhi et.al.|[2503.18175](http://arxiv.org/abs/2503.18175)|null|
 |**2025-03-22**|**Reasoning with LLMs for Zero-Shot Vulnerability Detection**|Arastoo Zibaeirad et.al.|[2503.17885](http://arxiv.org/abs/2503.17885)|**[link](https://github.com/erroristotle/vulnsage)**|
 |**2025-03-19**|**UntrustVul: An Automated Approach for Identifying Untrustworthy Alerts in Vulnerability Detection Models**|Lam Nguyen Tung et.al.|[2503.14852](http://arxiv.org/abs/2503.14852)|null|
@@ -112,7 +114,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
