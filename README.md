@@ -1,4 +1,4 @@
-## Updated on 2025.05.15
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,7 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-13**|**ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs**|Chaomeng Lu et.al.|[2505.08503](http://arxiv.org/abs/2505.08503)|null|
+|**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494](http://arxiv.org/abs/2505.10494)|**[link](https://github.com/murraytom/cov-eval)**|
+|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
+|**2025-05-13**|**ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs**|Chaomeng Lu et.al.|[2505.08503](http://arxiv.org/abs/2505.08503)|**[link](https://github.com/chaomeng-lu/icvul)**|
 |**2025-05-12**|**A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection**|Junji Yu et.al.|[2505.07376](http://arxiv.org/abs/2505.07376)|null|
 |**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|
 |**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|
@@ -114,7 +116,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
