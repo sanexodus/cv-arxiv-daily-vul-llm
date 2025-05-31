@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|
+|**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|
+|**2025-05-28**|**VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries**|Nasir Hussain et.al.|[2505.22010](http://arxiv.org/abs/2505.22010)|null|
 |**2025-05-27**|**ColorGo: Directed Concolic Execution**|Jia Li et.al.|[2505.21130](http://arxiv.org/abs/2505.21130)|null|
 |**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|null|
 |**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|null|

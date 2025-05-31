@@ -1,4 +1,4 @@
-## Updated on 2025.05.29
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|
+|**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|
+|**2025-05-28**|**VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries**|Nasir Hussain et.al.|[2505.22010](http://arxiv.org/abs/2505.22010)|null|
 |**2025-05-27**|**ColorGo: Directed Concolic Execution**|Jia Li et.al.|[2505.21130](http://arxiv.org/abs/2505.21130)|null|
 |**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|null|
 |**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|null|
@@ -128,7 +131,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
