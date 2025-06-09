@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "ybdesire"
+user_name: "Zack"
 repo_name: "cv-arxiv-daily-vul-llm"
 show_authors: True
 show_links: True
@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLMVulDetect": 
-        filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM"]
+        filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM", "Vulnerability Exploit LLM"]
     "LLMVulData":
         filters: ["Code Vulnerability Detection data LLM"]
     "VulDetect":
