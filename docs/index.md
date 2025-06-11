@@ -2,15 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**|Honglin Shu et.al.|[2506.07503](http://arxiv.org/abs/2506.07503)|null|
+|**2025-06-09**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|null|
+|**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|
+|**2025-06-06**|**Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph**|Yufeng Wang et.al.|[2506.06161](http://arxiv.org/abs/2506.06161)|null|
+|**2025-06-06**|**SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code**|Xinghang Li et.al.|[2506.05692](http://arxiv.org/abs/2506.05692)|null|
+|**2025-06-05**|**Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models**|Mingjie Chen et.al.|[2506.05430](http://arxiv.org/abs/2506.05430)|null|
 |**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987](http://arxiv.org/abs/2506.04987)|null|
-|**2025-06-04**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651](http://arxiv.org/abs/2506.03651)|null|
+|**2025-06-04**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651](http://arxiv.org/abs/2506.03651)|**[link](https://github.com/vul337/mono)**|
 |**2025-05-30**|**LPASS: Linear Probes as Stepping Stones for vulnerability detection using compressed LLMs**|Luis Ibanez-Lissen et.al.|[2505.24451](http://arxiv.org/abs/2505.24451)|null|
 |**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|
 |**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|
