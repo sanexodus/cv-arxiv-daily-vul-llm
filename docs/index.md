@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.13
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
@@ -34,7 +34,7 @@ layout: default
 |**2025-05-21**|**An Empirical Analysis of EOS Blockchain: Architecture, Contract, and Security**|Haiyang Liu et.al.|[2505.15051](http://arxiv.org/abs/2505.15051)|null|
 |**2025-05-16**|**Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents**|Ratnadira Widyasari et.al.|[2505.10961](http://arxiv.org/abs/2505.10961)|null|
 |**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494](http://arxiv.org/abs/2505.10494)|**[link](https://github.com/murraytom/cov-eval)**|
-|**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
+|**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|**[link](https://github.com/rufimelo99/SAE-Java-Bug-Detection)**|
 |**2025-05-13**|**ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs**|Chaomeng Lu et.al.|[2505.08503](http://arxiv.org/abs/2505.08503)|**[link](https://github.com/chaomeng-lu/icvul)**|
 |**2025-05-12**|**A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection**|Junji Yu et.al.|[2505.07376](http://arxiv.org/abs/2505.07376)|null|
 |**2025-05-08**|**Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection**|José Gonçalves et.al.|[2505.05600](http://arxiv.org/abs/2505.05600)|**[link](https://github.com/jp2425/scope2)**|
@@ -55,7 +55,7 @@ layout: default
 |**2025-04-18**|**Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask**|Yue Li et.al.|[2504.13474](http://arxiv.org/abs/2504.13474)|null|
 |**2025-04-17**|**GraphQLer: Enhancing GraphQL Security with Context-Aware API Testing**|Omar Tsai et.al.|[2504.13358](http://arxiv.org/abs/2504.13358)|**[link](https://github.com/omar2535/GraphQLer)**|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
-|**2025-05-31**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711](http://arxiv.org/abs/2504.11711)|null|
+|**2025-05-31**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711](http://arxiv.org/abs/2504.11711)|**[link](https://github.com/seclab-ucr/buglens)**|
 |**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027](http://arxiv.org/abs/2504.07027)|null|
 |**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null|
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
