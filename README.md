@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,11 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches**|Ranindya Paramitha et.al.|[2506.11939](http://arxiv.org/abs/2506.11939)|null|
+|**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561](http://arxiv.org/abs/2506.11561)|null|
+|**2025-06-13**|**VulStamp: Vulnerability Assessment using Large Language Model**|Haoshen et.al.|[2506.11484](http://arxiv.org/abs/2506.11484)|null|
+|**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280](http://arxiv.org/abs/2506.10280)|null|
+|**2025-06-11**|**Expert-in-the-Loop Systems with Cross-Domain and In-Domain Few-Shot Learning for Software Vulnerability Detection**|David Farr et.al.|[2506.10104](http://arxiv.org/abs/2506.10104)|null|
 |**2025-06-09**|**Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**|Honglin Shu et.al.|[2506.07503](http://arxiv.org/abs/2506.07503)|null|
-|**2025-06-09**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|null|
+|**2025-06-09**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|**[link](https://github.com/xin-cheng-wen/po4vul)**|
 |**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|
 |**2025-06-06**|**Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph**|Yufeng Wang et.al.|[2506.06161](http://arxiv.org/abs/2506.06161)|null|
-|**2025-06-06**|**SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code**|Xinghang Li et.al.|[2506.05692](http://arxiv.org/abs/2506.05692)|null|
+|**2025-06-15**|**SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code**|Xinghang Li et.al.|[2506.05692](http://arxiv.org/abs/2506.05692)|null|
 |**2025-06-05**|**Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models**|Mingjie Chen et.al.|[2506.05430](http://arxiv.org/abs/2506.05430)|null|
 |**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987](http://arxiv.org/abs/2506.04987)|null|
 |**2025-06-11**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651](http://arxiv.org/abs/2506.03651)|**[link](https://github.com/vul337/mono)**|
@@ -140,7 +145,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
