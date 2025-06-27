@@ -2,20 +2,25 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
+|**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444](http://arxiv.org/abs/2506.20444)|null|
+|**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
+|**2025-06-24**|**PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes**|Pasquale De Rosa et.al.|[2506.19480](http://arxiv.org/abs/2506.19480)|null|
+|**2025-06-24**|**FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk**|Sajal Halder et.al.|[2506.19453](http://arxiv.org/abs/2506.19453)|null|
 |**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|
 |**2025-06-21**|**SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis**|Wang Lingxiang et.al.|[2506.17798](http://arxiv.org/abs/2506.17798)|null|
 |**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-20**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|**[link](https://github.com/sailresearch/replication-25-mcp-server-empirical-study)**|
 |**2025-06-13**|**Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches**|Ranindya Paramitha et.al.|[2506.11939](http://arxiv.org/abs/2506.11939)|null|
 |**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561](http://arxiv.org/abs/2506.11561)|null|
-|**2025-06-13**|**VulStamp: Vulnerability Assessment using Large Language Model**|Haoshen et.al.|[2506.11484](http://arxiv.org/abs/2506.11484)|null|
+|**2025-06-25**|**VulStamp: Vulnerability Assessment using Large Language Model**|Hao Shen et.al.|[2506.11484](http://arxiv.org/abs/2506.11484)|null|
 |**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280](http://arxiv.org/abs/2506.10280)|null|
 |**2025-06-11**|**Expert-in-the-Loop Systems with Cross-Domain and In-Domain Few-Shot Learning for Software Vulnerability Detection**|David Farr et.al.|[2506.10104](http://arxiv.org/abs/2506.10104)|null|
 |**2025-06-09**|**Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**|Honglin Shu et.al.|[2506.07503](http://arxiv.org/abs/2506.07503)|**[link](https://github.com/spanshu96/large-language-model-for-multilingual-vulnerability-detection)**|
