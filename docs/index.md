@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|
+|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
 |**2025-06-30**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
 |**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|
 |**2025-06-26**|**Boosting Vulnerability Detection with Inter-function Multilateral Association Insights**|Shaojian Qiu et.al.|[2506.21014](http://arxiv.org/abs/2506.21014)|null|
@@ -19,7 +21,7 @@ layout: default
 |**2025-06-24**|**FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk**|Sajal Halder et.al.|[2506.19453](http://arxiv.org/abs/2506.19453)|null|
 |**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|
 |**2025-06-21**|**SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis**|Wang Lingxiang et.al.|[2506.17798](http://arxiv.org/abs/2506.17798)|null|
-|**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
+|**2025-07-08**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-20**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|**[link](https://github.com/sailresearch/replication-25-mcp-server-empirical-study)**|
 |**2025-06-13**|**Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches**|Ranindya Paramitha et.al.|[2506.11939](http://arxiv.org/abs/2506.11939)|null|
 |**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561](http://arxiv.org/abs/2506.11561)|null|
@@ -42,7 +44,7 @@ layout: default
 |**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|**[link](https://github.com/Jackline97/SV-TrustEval-C)**|
 |**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|**[link](https://github.com/basimbd/secvuleval)**|
 |**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|
-|**2025-05-23**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460](http://arxiv.org/abs/2505.17460)|null|
+|**2025-07-08**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460](http://arxiv.org/abs/2505.17460)|null|
 |**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|**[link](https://github.com/sosol717/llm-bscvm)**|
 |**2025-05-21**|**CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution**|Minghao Shao et.al.|[2505.17107](http://arxiv.org/abs/2505.17107)|**[link](https://github.com/nyu-llm-ctf/nyuctf_agents_craken)**|
 |**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
