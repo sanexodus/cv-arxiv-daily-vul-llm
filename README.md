@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|
+|**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|
 |**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
 |**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|
 |**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
@@ -160,7 +162,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

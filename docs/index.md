@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.07.11
+## Updated on 2025.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|
+|**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|
 |**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
 |**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|
 |**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
