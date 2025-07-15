@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
 |**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|
 |**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|
 |**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
